@@ -4,7 +4,7 @@ Welcome to my GitHub Profile!
 
 ## 🚀 About Me
 
-As a PhD in Geoscience, I wear multiple hats!
+As a PhD in Geophysics, I wear multiple hats!
 
 I love developing geospatial machine-learning solutions for complex problems.
 
