@@ -21,7 +21,8 @@ I have 2+ years of experience developing novel machine-learning solutions & prov
 |---------|-------------|------------|
 | [**AI-Fault-Classification**](https://github.com/ZuhairQuakes/AI-Fault-Classification) | Neural Network Framework for Earthquake Hazard | ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-red?logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 | [**Spatial-StrainSeis-Correlation**](https://github.com/ZuhairQuakes/Spatial-StrainSeis-Correlation) | Geospatial analysis on strain rates with seismicity relation | ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-orange?logo=jupyter&logoColor=white) ![QGIS](https://img.shields.io/badge/-QGIS-green?logo=qgis&logoColor=white) ![GeoPandas](https://img.shields.io/badge/-GeoPandas-green?logo=geopandas&logoColor=white) ![Cartopy](https://img.shields.io/badge/-Cartopy-brightgreen?logo=Cartopy&logoColor=white)
-| [**GeoModel-HPC**](https://github.com/ZuhairQuakes/GeoModel-HPC) | Geo-modelling by leveraging HPC & Parallel Computing | ![HPC](https://img.shields.io/badge/-HPC-blueviolet?logo=supermicro&logoColor=white) ![Parallel Computing](https://img.shields.io/badge/-Parallel%20Computing-darkorange?logo=nvidia&logoColor=white)
+| [**GeoModel-HPC**](https://github.com/ZuhairQuakes/GeoModel-HPC) | Geo-modelling by leveraging HPC, Parallel Computing & Cloud Computing | ![HPC](https://img.shields.io/badge/-HPC-blueviolet?logo=supermicro&logoColor=white) ![Parallel Computing](https://img.shields.io/badge/-Parallel%20Computing-darkorange?logo=nvidia&logoColor=white) ![Cloud Computing](https://img.shields.io/badge/-Cloud%20Computing-royalblue?logo=cloud&logoColor=white)
+
 
 ## 🔗 Links
 
