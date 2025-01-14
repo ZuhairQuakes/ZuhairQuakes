@@ -6,7 +6,7 @@ Welcome to my GitHub Profile!
 
 As a PhD in Geophysics, I wear multiple hats!
 
-I love developing geospatial machine-learning solutions for complex problems.
+I love developing machine-learning solutions for complex geospatial and geoscience problems.
 
 I have 2+ years of experience developing novel machine-learning solutions & providing performance data analytics for complex scientific problems for major clients from the infrastructure & energy industry. I have 6+ years of experience developing mathematical models and programming quantitative solutions.
 
