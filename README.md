@@ -4,7 +4,7 @@ Welcome to my GitHub Profile!
 
 ## 🚀 About Me
 
-I love developing geospatial solutions for complex environmental problems. I hold a PhD from a top-tier university and over 8 years of experience transforming complex environmental and geospatial data into actionable insights. Proven expertise in leveraging Python, SQL, GIS, FME, and Machine Learning to develop robust data pipelines, automate workflows, and build predictive models for multi-hazard risk assessment (earthquakes, tsunamis) and environmental monitoring. Expertise in leveraging GIS (QGIS), remote sensing, and geodetic datasets to understand complex Earth systems and inform decision-making for urban resilience and coastal defence.
+I love developing geospatial solutions for complex environmental problems. I hold a PhD from a top-tier university and over 8 years of experience transforming complex environmental and geospatial data into actionable insights. Proven expertise in leveraging Python, SQL, FME, and Machine Learning to develop robust data pipelines, automate workflows, and build predictive models for multi-hazard risk assessment (earthquakes, tsunamis) and environmental monitoring. Expertise in leveraging GIS (QGIS), remote sensing, and geodetic datasets to understand complex Earth systems and inform decision-making for urban resilience and coastal defence.
 
 ### I specialize in:
 1. Geospatial Analytics
