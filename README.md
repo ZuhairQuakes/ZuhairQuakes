@@ -1,6 +1,4 @@
-![Greetings! I am Mohd Zuhair](linkdcover.png)
-
-# Greetings! I am Mohd Zuhair... 👋
+![Greetings! I am Mohd Zuhair](github-profile.png)
 
 Welcome to my GitHub Profile!
 
