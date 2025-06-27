@@ -2,12 +2,13 @@ Welcome to my GitHub Profile!
 
 ## 🚀 About Me
 
-I love developing engineering and geospatial solutions for complex earthquake risk problems. I hold a PhD from a top-tier university and have over 10 years of experience transforming complex environmental and geospatial data into actionable insights. Proven expertise in leveraging Python, SQL, GIS (QGIS/ArcGIS Pro), FME, and Machine Learning (including Deep Learning & XAI) to develop robust data pipelines, automate workflows, and build predictive models for multi-hazard risk assessment (earthquakes, tsunamis) and environmental monitoring. Expertise in remote sensing and geodetic datasets to understand complex Earth systems and inform decision-making for urban resilience and coastal defence.
+I love developing data, engineering, and geospatial solutions for complex natural hazard problems. I hold a PhD from a top-tier university and have over 10 years of experience transforming complex data into actionable insights. Proven expertise in leveraging Python, SQLite, GIS, FME, and Machine Learning (including Deep Learning & XAI) to develop robust data pipelines, automate workflows, and build predictive models for multi-hazard risk assessment (earthquakes, tsunamis) and environmental monitoring. Expertise in remote sensing and geodetic datasets to understand complex Earth systems and inform decision-making for urban resilience and coastal defence.
 
-### I specialize in:
-1. Geospatial Analytics
-2. GIS & Cartography
-3. Data Science and Machine Learning
+### I specialise in:
+1. Data Science and Machine Learning
+2. Geospatial Analytics & Remote Sensing (GNSS)
+3. Seismic Hazard Assessment
+4. Numerical Modelling
 
 ## 🔧 Featured Projects
 
