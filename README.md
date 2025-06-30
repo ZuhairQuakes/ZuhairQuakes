@@ -7,8 +7,8 @@ I love developing data, engineering, and geospatial solutions for solving comple
 ### I specialise in:
 1. Data Science and Machine Learning
 2. Geospatial Analytics & Remote Sensing (GNSS)
-3. Seismic Hazard Assessment
-4. Numerical Modelling
+3. Numerical Modelling
+4. Seismic Hazard Assessment
 
 ## 🔧 Featured Projects
 
