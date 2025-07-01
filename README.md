@@ -2,7 +2,7 @@ Welcome to my GitHub Profile!
 
 ## 🚀 About Me
 
-I love developing data, engineering, and geospatial solutions for solving complex problems related to the Earth's subsurface. I hold a PhD from a top-tier university and have over 10 years of experience transforming complex data into actionable insights. I leverage advanced data science, machine learning, and numerical modeling (FEM/FDM) in Python to develop predictive models, automate analysis pipelines, and deliver actionable insights.
+I love developing data solutions for solving complex problems. I hold a PhD from a top-tier university and have over 10 years of experience transforming complex data into actionable insights. I leverage advanced data science, machine learning, and numerical modeling (FEM/FDM) in Python to develop predictive models, automate analysis pipelines, and deliver actionable insights.
 
 ### I specialise in:
 1. Data Science and Machine Learning
