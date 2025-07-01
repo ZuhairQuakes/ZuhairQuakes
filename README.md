@@ -6,9 +6,9 @@ I love developing data solutions for solving complex problems. I hold a PhD from
 
 ### I specialise in:
 1. Data Science and Machine Learning
-2. Geospatial Analytics & Remote Sensing (GNSS)
 3. Numerical Modelling
-4. Seismic Hazard Assessment
+4. Geospatial Analytics & Remote Sensing (GNSS)
+5. Seismic Hazard Assessment
 
 ## 🔧 Featured Projects
 
