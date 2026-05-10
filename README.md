@@ -121,7 +121,10 @@ Demo: Available upon request for interview processes
 
 10+ years building ML and automation systems across Singapore, Australia, and India.
 
-Previously: 
+Experience: 
 
-- ML Research Fellow at Earth Observatory of Singapore (NTU)
-- ML PhD Researcher at Monash University.
+- AI Specialist at Pareto.AI (USA) | 2025-Present
+- AI Research Fellow at NTU (Singapore) | 2023-2025
+- AI PhD Researcher at Monash University (Australia) | 2018-2023
+- AI Research Analyst at Chinese Academy of Sciences (China) | 2017
+- AI Research Analyst at IIT Kharagpur (India) | 2015-2017
