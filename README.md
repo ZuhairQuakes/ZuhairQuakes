@@ -1,6 +1,6 @@
 # Hi, I'm Zuhair 👋
 
-**AI Specialist & Data Scientist**
+**AI Automation | Machine Learning | Data Science**
 
 I build AI-powered tools that eliminate manual workflows and ship measurable results.
 
