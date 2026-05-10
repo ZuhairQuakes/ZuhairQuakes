@@ -38,7 +38,7 @@ Based in Melbourne, Australia.
 **Groblox Event Quote Generator**
 Turns a 2-minute client brief into a fully structured, priced event activation proposal using the Claude API — in 30 seconds.
 Replaced a 4–8 hour manual process. Built solo, end to end.
-`Claude API` `Flask` `Python` `PDF generation`
+`API` `Flask` `Python` `PDF generation`
 [Demo](https://docs.google.com/videos/d/1XI1T_TxL71WeSD24mde30cHyr538MVYXv6FkUw7OTvU/edit?usp=sharing)
 
 ---
@@ -46,7 +46,7 @@ Replaced a 4–8 hour manual process. Built solo, end to end.
 **Internal Document Q&A Assistant**
 RAG-powered assistant that makes years of internal documents (Excel, PDFs, receipts, policies) instantly searchable in plain English.
 Query time: 30–45 minutes reduced to 10 seconds. 100x speedup.
-`Claude API` `LangGraph` `FAISS` `HuggingFace` `Flask` `Docker`
+`API` `LangGraph` `FAISS` `HuggingFace` `Flask` `Docker`
 [Demo](https://docs.google.com/videos/d/1tnJAY1oPBnsGLALkoYzlgfXq0cVdRttBtjOPGphcBzI/edit?usp=sharing)
 
 ---
@@ -64,7 +64,7 @@ Production agentic RAG system unifying 7 years of heterogeneous donor records (E
 LangGraph ReAct agent with MCP-compatible multi-tool routing — each question class routes to the correct authoritative source by design.
 Strict grounding, PII anonymisation, and prompt injection guardrails enforced at the architecture layer. HITL approval gates for sensitive outputs.
 Query resolution: 30–45 minutes reduced to ~10 seconds. Deployed via Docker and CI/CD with full production monitoring.
-`Claude API` `LangGraph` `MCP` `FAISS` `HuggingFace` `FastAPI` `Docker` `CI/CD`
+`API` `LangGraph` `MCP` `FAISS` `HuggingFace` `FastAPI` `Docker` `CI/CD`
 Demo: Available upon request for interview processes
 
 ---
