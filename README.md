@@ -2,7 +2,7 @@
 
 **AI Automation | Machine Learning | Data Science**
 
-I build AI-powered tools that eliminate manual workflows and ship measurable results.
+I build AI-powered tools that eliminate manual workflows and ship measurable results, so people spend their time on the work that matters most.
 
 🤖 Built AI tools saving 8,000+ hours/year in manual work
 
