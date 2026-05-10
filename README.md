@@ -117,7 +117,7 @@ Demo: Available upon request for interview processes
 
 ## Background
 
-**PhD, Computational Geophysics** — Monash University, Australia (2018–2022)
+**PhD, AI & Computational Geophysics** — Monash University, Australia (2018–2022)
 
 10+ years building ML and automation systems across Singapore, Australia, and India.
 
