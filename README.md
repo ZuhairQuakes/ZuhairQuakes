@@ -76,7 +76,6 @@ I build AI-powered tools that eliminate manual workflows and ship measurable res
 Turns a 2-minute client brief into a fully structured, priced event activation proposal — in 30 seconds.
 Replaced a 4–8 hour manual process. Built solo, end to end.
 `API` `Flask` `Python` `PDF generation`
-[Demo](https://docs.google.com/videos/d/1XI1T_TxL71WeSD24mde30cHyr538MVYXv6FkUw7OTvU/edit?usp=sharing)
 
 ---
 
@@ -84,7 +83,6 @@ Replaced a 4–8 hour manual process. Built solo, end to end.
 RAG-powered assistant that makes years of internal documents (Excel, PDFs, receipts, policies) instantly searchable in plain English.
 Query time: 30–45 minutes reduced to 10 seconds. 100x speedup.
 `API` `LangGraph` `FAISS` `HuggingFace` `Flask` `Docker`
-[Demo](https://docs.google.com/videos/d/1tnJAY1oPBnsGLALkoYzlgfXq0cVdRttBtjOPGphcBzI/edit?usp=sharing)
 
 ---
 
@@ -92,7 +90,6 @@ Query time: 30–45 minutes reduced to 10 seconds. 100x speedup.
 Live internal dashboard showing real-time status, location, and upcoming returns for 40+ hire units across three states.
 Sales team answers customer availability questions in 3 seconds while still on the phone.
 `Flask` `JavaScript` `Chart.js` `Python` `HTML/CSS`
-[Demo](https://docs.google.com/videos/d/1ygZxhiQQC4hMxKq55w33Obw9Nf81EHfGM-9bNhMfkyQ/edit?usp=sharing)
 
 ---
 
