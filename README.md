@@ -10,8 +10,6 @@ I build AI-powered tools that eliminate manual workflows and ship measurable res
 
 ⚡ 100x query speedup — 45 minutes to 10 seconds with RAG
 
-🌏 AI systems deployed across 4 countries, informing $200M+ in decisions
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quakes/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=NHRsjgEAAAAJ&view_op=list_works&sortby=pubdate)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zuhair.alig31@gmail.com)
