@@ -79,14 +79,6 @@ Query resolution: 30–45 minutes reduced to ~10 seconds. Deployed via Docker an
 
 ---
 
-**Cloud-Native Geospatial Hazard Platform**
-Event-driven AWS pipeline (EventBridge, Lambda, Batch, ECS, S3) delivering AI-generated regional hazard maps in ~5 minutes.
-Replaced 45–90 minutes of manual analyst work. Served 20+ stakeholders across insurance and infrastructure sectors.
-Delivered as a $2M government-funded programme, on time and on budget.
-`AWS` `PyTorch` `MLflow` `Flask` `Streamlit` `Docker` `CI/CD`
-
----
-
 **Quote Generator**
 Turns a 2-minute client brief into a fully structured, priced event activation proposal — in 30 seconds.
 Replaced a 4–8 hour manual process. Built solo, end to end.
@@ -114,8 +106,5 @@ Sales team answers customer availability questions in 3 seconds while still on t
 
 - AI Specialist at Pareto.AI (USA) | 2025-Present
 - AI Research Fellow at NTU (Singapore) | 2023-2025
-- AI PhD Researcher at Monash University (Australia) | 2018-2023
-- AI Research Analyst at Chinese Academy of Sciences (China) | 2017
-- AI Research Analyst at IIT Kharagpur (India) | 2015-2017
 
 **PhD, AI & Computational Geophysics** — Monash University, Australia
