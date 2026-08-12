@@ -4,11 +4,9 @@
 
 I build AI-powered tools that eliminate manual workflows and ship measurable results, so people spend their time on the work that matters most.
 
-💰 Generated $130k in revenue within 6 months by building an automated quality check system
+💰 Generated $175k in revenue within 6 months by designing AI evaluation datasets and quality check system
 
-🤖 Saved 8,000+ hours/year in manual work by building an end-to-end Python pipeline
-
-⚡ Cut-down query time from 45 minutes to 10 seconds with RAG
+🤖 Saved 8,000+ hours/year by building a mapping app that identifies regions at high earthquake risk
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quakes/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=NHRsjgEAAAAJ&view_op=list_works&sortby=pubdate)
@@ -65,46 +63,3 @@ I build AI-powered tools that eliminate manual workflows and ship measurable res
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
- 
----
-
-## Shipped Projects
-
-**Nonprofit Donor Intelligence — Agentic RAG Assistant**
-Production agentic RAG system unifying 7 years of heterogeneous donor records (Excel, PDFs, scanned receipts, screenshots) into a single queryable surface.
-LangGraph ReAct agent with MCP-compatible multi-tool routing — each question class routes to the correct authoritative source by design.
-Strict grounding, PII anonymisation, and prompt injection guardrails enforced at the architecture layer. HITL approval gates for sensitive outputs.
-Query resolution: 30–45 minutes reduced to ~10 seconds. Deployed via Docker and CI/CD with full production monitoring.
-`API` `LangGraph` `MCP` `FAISS` `HuggingFace` `FastAPI` `Docker` `CI/CD`
-
----
-
-**Quote Generator**
-Turns a 2-minute client brief into a fully structured, priced event activation proposal — in 30 seconds.
-Replaced a 4–8 hour manual process. Built solo, end to end.
-`API` `Flask` `Python` `PDF generation`
-
----
-
-**Internal Document Q&A Assistant**
-RAG-powered assistant that makes years of internal documents (Excel, PDFs, receipts, policies) instantly searchable in plain English.
-Query time: 30–45 minutes reduced to 10 seconds. 100x speedup.
-`API` `LangGraph` `FAISS` `HuggingFace` `Flask` `Docker`
-
----
-
-**Fleet Availability Dashboard**
-Live internal dashboard showing real-time status, location, and upcoming returns for 40+ hire units across three states.
-Sales team answers customer availability questions in 3 seconds while still on the phone.
-`Flask` `JavaScript` `Chart.js` `Python` `HTML/CSS`
-
----
-
-## Background
-
-10+ years building intelligent systems across Australia, Singapore, and India.
-
-- AI Specialist at Pareto.AI (USA) | 2025-Present
-- AI Research Fellow at NTU (Singapore) | 2023-2025
-
-**PhD, AI & Computational Geophysics** — Monash University, Australia
