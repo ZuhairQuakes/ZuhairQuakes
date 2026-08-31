@@ -4,10 +4,6 @@
 
 I build AI-powered tools that eliminate manual workflows and ship measurable results, so people spend their time on the work that matters most.
 
-💰 Generated $175k in revenue within 6 months by designing AI evaluation datasets and quality check system
-
-🤖 Saved 8,000+ hours/year by building a mapping app that identifies regions at high earthquake risk
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quakes/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=NHRsjgEAAAAJ&view_op=list_works&sortby=pubdate)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zuhair.alig31@gmail.com)
