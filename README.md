@@ -18,15 +18,19 @@ My work connects **statistical inference**, **explainable machine learning**, **
 - **Geospatial risk intelligence:** combined GNSS-derived deformation, principal component analysis and population data to connect physical measurements with societal exposure.
 - **Trustworthy AI:** design rigorous quantitative tasks, ground-truth solutions and evaluation criteria that expose reasoning failures in advanced language models.
 
-### Selected natural-hazard projects
+### Open-Source Contribution
 
-| Project | Focus |
+I develop open, reproducible research software that turns methods from earthquake science into tools other researchers can inspect, validate and extend.
+
+| Contribution | Reusable scientific capability |
 | --- | --- |
-| [Explainable AI for earthquakes](https://github.com/ZuhairQuakes/explainable-AI) | Reproducible ML pipeline for analysing the physical features associated with large earthquakes. |
-| [Statistical modelling](https://github.com/ZuhairQuakes/Statistical-Modelling) | Statistical and probabilistic methods for earthquake and geoscience problems. |
-| [Automated GNSS strain-rate analysis](https://github.com/ZuhairQuakes/automated-strain-rate) | Geodetic deformation analysis and geospatial outputs for regional hazard assessment. |
-| [HPC 3D earthquake modelling](https://github.com/ZuhairQuakes/3D-Modelling) | Physics-based numerical experiments examining conditions associated with major earthquakes. |
-| [Interactive earthquake visualisation](https://github.com/ZuhairQuakes/interactive-web-app) | Streamlit application combining USGS events with optional georeferenced imagery. |
+| [Explainable AI for earthquakes](https://github.com/ZuhairQuakes/explainable-AI) | Installable inference and Layer-wise Relevance Propagation package with an interactive Streamlit explorer for published megathrust models. |
+| [Statistical modelling](https://github.com/ZuhairQuakes/Statistical-Modelling) | Reproducible statistical and probabilistic workflows for earthquake and geoscience research. |
+| [Automated GNSS strain-rate analysis](https://github.com/ZuhairQuakes/automated-strain-rate) | Automated processing of GNSS velocities into documented strain-rate estimates and geospatial outputs. |
+| [HPC 3D earthquake modelling](https://github.com/ZuhairQuakes/3D-Modelling) | Reusable high-performance numerical-modelling workflows for testing the physical controls on major earthquakes. |
+| [Interactive earthquake visualisation](https://github.com/ZuhairQuakes/interactive-web-app) | Open web tool for exploring live USGS earthquake data and optional georeferenced imagery. |
+
+Scientific issues, validation studies, documentation improvements and code contributions are welcome through each repository's GitHub workflow.
 
 ### Methods and capabilities
 
