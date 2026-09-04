@@ -1,4 +1,4 @@
-# Mohd Zuhair
+# Mohd Zuhair, PhD
 
 ## AI, Statistical Modelling & Machine Learning
 
