@@ -27,8 +27,6 @@ I develop open, reproducible research software that turns methods from earthquak
 | [Explainable AI for earthquakes](https://github.com/ZuhairQuakes/explainable-AI) | Installable inference and Layer-wise Relevance Propagation package with an interactive Streamlit explorer for published megathrust models. |
 | [Statistical modelling](https://github.com/ZuhairQuakes/Statistical-Modelling) | Reproducible statistical and probabilistic workflows for earthquake and geoscience research. |
 | [Automated GNSS strain-rate analysis](https://github.com/ZuhairQuakes/automated-strain-rate) | Automated processing of GNSS velocities into documented strain-rate estimates and geospatial outputs. |
-| [HPC 3D earthquake modelling](https://github.com/ZuhairQuakes/3D-Modelling) | Reusable high-performance numerical-modelling workflows for testing the physical controls on major earthquakes. |
-| [Interactive earthquake visualisation](https://github.com/ZuhairQuakes/interactive-web-app) | Open web tool for exploring live USGS earthquake data and optional georeferenced imagery. |
 
 Scientific issues, validation studies, documentation improvements and code contributions are welcome through each repository's GitHub workflow.
 
