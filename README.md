@@ -2,7 +2,7 @@
 
 ## AI & Machine Learning
 
-I am an AI and statistical researcher developing reliable, interpretable computational methods for complex scientific problems—especially earthquakes, tectonics, geospatial risk and environmental hazards.
+I am an AI/ML and statistical researcher developing reliable, interpretable computational methods for complex scientific problems—especially earthquakes, tectonics, geospatial risk and environmental hazards.
 
 My work connects **statistical inference**, **explainable machine learning**, **physics-based numerical modelling** and **geospatial data**. I am particularly interested in models that do more than predict: they should quantify uncertainty, reflect domain knowledge and produce results that scientists and decision-makers can examine and trust.
 
