@@ -1,6 +1,6 @@
 # Mohd Zuhair, PhD
 
-## AI & Machine Learning
+## AI & Machine Learning Engineer & Researcher
 
 I am an AI/ML and statistical researcher developing reliable, interpretable computational methods for complex scientific problems—especially earthquakes, tectonics, geospatial risk and environmental hazards.
 
